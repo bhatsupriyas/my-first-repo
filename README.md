@@ -1,11 +1,14 @@
-# This is a large heading
+# Supriya
 
-## This is a smaller heading
+## Geography
+ I live in the city of Sunnyvale, in the state of California, in the United States of America
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+
+##Activities
+
+I love reading books to my baby 
+
+
 
 - This is
 - an unordered
